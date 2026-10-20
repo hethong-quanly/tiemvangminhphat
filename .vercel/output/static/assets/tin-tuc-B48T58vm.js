@@ -1,0 +1,1 @@
+import{s as e}from"./link-CRYOLg98.js";import{t}from"./frame-B8HtojVZ.js";import{p as n}from"./index-DAicUSwO.js";var r=e();function i(){return(0,r.jsx)(t,{children:(0,r.jsx)(n,{})})}export{i as component};

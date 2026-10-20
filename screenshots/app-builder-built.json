@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Tiệm Vàng Minh Phát Cần Thơ",
+      "hasCanvas": false,
+      "bodyTextLen": 3108,
+      "bodyTextHash": "79bc94e8043739070591698b995412573303082f61b582c6ac5eca727cd15d7a",
+      "bodyTextPrefix": "MP Minh Phát Vàng · Cần Thơ Trang chủ Giá vàng Sản phẩm Tin tức ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Tiệm Vàng Minh Phát Cần Thơ",
+      "hasCanvas": false,
+      "bodyTextLen": 3043,
+      "bodyTextHash": "f67e05529c987643dcf2c6031ec5afaab50eda120e7d99f4f4c0407d470537de",
+      "bodyTextPrefix": "MP Minh Phát Vàng · Cần Thơ Giờ Cần Thơ · Zalo trực 24/24 CẦN TH",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
